@@ -4,7 +4,7 @@ Some use of Natural Language Processing in Python to extract features for phishi
 
 ### Prerequisites
 
-*Numpy
-*Pyechant
-*Requests
-*bs4
+* Numpy
+* Pyechant
+* Requests
+* bs4
